@@ -9,7 +9,7 @@
 # DESIGNAuroraGradient
 This project shows how to add a stunning aurora gradient design to your website. <br />
 
-Learn more about How to Add a Mini Audio Player to Your Website with React here:<br />
+Learn more about Aurora Gradients here:<br />
 https://medium.com/@caden0002/beautiful-aurora-gradient-with-react-framer-motion-9ab40674b5fb
 
 
