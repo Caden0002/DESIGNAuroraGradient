@@ -1,12 +1,16 @@
-import Page1 from "./components/Page1.jsx";
-import Page2 from "./components/Page2.jsx";
+import LandingPage from "./components/LandingPage.jsx";
+import AuroraGradient from "./components/AuroraGradient.jsx";
+
+import AuroraGradientAnimated from "./components/AuroraGradientAnimated.jsx";
 
 
 export default function App() {
     return (
         <>
-            <Page1 />
-            <Page2 />
+                    <AuroraGradient />
+                    <AuroraGradientAnimated />
+
+            <LandingPage />
 
 
         </>
